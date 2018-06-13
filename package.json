@@ -1,8 +1,10 @@
 {
   "dependencies": {
+    "@slack/client": "^4.3.1",
     "apiai": "^4.0.3",
     "body-parser": "^1.18.3",
     "dialogflow": "^0.5.0",
+    "dotenv": "^6.0.0",
     "express": "^4.16.3",
     "favicon": "^0.0.2",
     "request": "^2.87.0",
